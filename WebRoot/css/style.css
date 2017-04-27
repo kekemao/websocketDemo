@@ -1,0 +1,11 @@
+*{margin:0px;padding:0px;}
+.top{width:100%;height:35px;border:1px solid #5D5D5D;}
+.left{width:10%;height:585px;border-right:1px solid #5D5D5D;float:left;border-top:0px;}
+.right{width:89%;height:auto;  overflow:auto;}
+.inp{margin:15px}
+.spanset{display:inline-block;margin-left:38%;margin-top:10px;}
+.huoQuNum{border-bottom:1px solid #5D5D5D; width:100%;height:25px;}
+.fr-pad{float:right;padding-right:10px;margin-right:20px;}
+.lineNum{width:40px}
+.infoPanel{width:100%;height:580px; overflow:auto; }
+.wid{width: 80px;}
